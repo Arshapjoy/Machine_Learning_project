@@ -1,1 +1,0 @@
-we will use advanced data analytics techniques and machine learning algorithms, such as logistic regression and decision trees, to predict the survival chances of passengers aboard the ill-fated ship.
